@@ -1,8 +1,3 @@
-### Hi! I'm Takeshi2030! 👋
-<div align="center">
-<img src="./assets/img/header.jpg" height="250x" width="50%">
-</div>
-
 <h1 align="center" style="font-size: 30px">Hey there <img src="./assets/img/hi.gif" width="30px">, I’m André Takeshi Maemura!</h1>
 
 <p>I'm a Designer, studying to be a Frontend Developer.</p>
